@@ -6,7 +6,6 @@ body {
     color: white;
     background-color: rgb(27, 25, 25);
     text-align: center;
-    min-height: 90%
 }
 
 header {
@@ -30,4 +29,8 @@ h2 {
 p,
 h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content {
+    min-height: 90%;
 }
